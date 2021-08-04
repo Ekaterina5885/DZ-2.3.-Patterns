@@ -1,0 +1,1 @@
+[![Сборка status](https://ci.appveyor.com/api/projects/status/q8p5yfc1t6dagpo4?svg=true)](https://ci.appveyor.com/project/Ekaterina5885/dz-2-3-patterns)
